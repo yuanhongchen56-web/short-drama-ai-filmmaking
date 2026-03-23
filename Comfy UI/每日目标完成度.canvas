@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"aae81da46b6e632a","x":-125,"y":-40,"width":285,"height":120,"type":"text","text":"1.22\n1.复习ControlNet的各种应用\n2.掌握IPAdapter的各种应用"},
+		{"id":"b992a5bd366d4132","type":"text","text":"","x":-125,"y":100,"width":285,"height":120}
+	],
+	"edges":[]
+}

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"94a0faee1edbfcdf","type":"text","text":"将原图解析并重构为专业级矢量感草图，要求线条闭合，流畅且富有表现力，精确勾勒主体轮廓与关键内部结构。输出为高对比纯黑白图像，剔除所有灰度，杂色及纹理细节，确保画面仅存清新，明确的层级化线条关系。","x":-125,"y":-30,"width":385,"height":150},
+		{"id":"ac5f2755371933d8","type":"text","text":"基于原图，提取并绘制标准色稿。为每个独立物体/区域填充平整，均匀的固定色，建立明确的色彩分区。需强化固有色的明度与色彩对比，确保色块关系清晰，视觉平衡，同时去除复杂的光影渐变，环境色及纹理干扰，形成纯净的色彩构成。","x":-125,"y":166,"width":385,"height":174},
+		{"id":"fbd7032dcc414f25","type":"file","file":"Gemini/assets/Gemini消除模糊感（Promt）/file-20260323132543382.png","x":-449,"y":-30,"width":269,"height":150},
+		{"id":"4bdaae5487576d47","type":"file","file":"Gemini/assets/Gemini消除模糊感（Promt）/file-20260323132610923.png","x":-449,"y":166,"width":276,"height":154},
+		{"id":"9eaa468f5f7fedf9","type":"text","text":"请对原图进行逆向视觉解构,推测其生成逻辑与核心构成元素。请以结构化、专业的中文提示词格式输出,需涵盖:1.核心主题与构图;2.视觉风格与质感;3.关健细节与氛围;4.技术参数与视角输出结果应具有高度可复用性,能直接用于引导图像生成。","x":-125,"y":490,"width":385,"height":160},
+		{"id":"25f8676582e1057f","type":"text","text":"**豆包生成提示词**","x":-340,"y":540,"width":160,"height":60,"color":"1"},
+		{"id":"1a5556af02e3ae70","type":"file","file":"Gemini/assets/Gemini消除模糊感（Promt）/file-20260323132656781.png","x":-449,"y":375,"width":276,"height":155}
+	],
+	"edges":[
+		{"id":"331135d459400a51","fromNode":"94a0faee1edbfcdf","fromSide":"bottom","toNode":"ac5f2755371933d8","toSide":"top"},
+		{"id":"d98aadf67cbdfbf6","fromNode":"ac5f2755371933d8","fromSide":"bottom","toNode":"9eaa468f5f7fedf9","toSide":"top"},
+		{"id":"3214a862d45ca66d","fromNode":"9eaa468f5f7fedf9","fromSide":"left","toNode":"25f8676582e1057f","toSide":"right"}
+	]
+}
