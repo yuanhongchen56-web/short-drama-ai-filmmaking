@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"3a340c8162fa631a","x":-200,"y":-200,"width":445,"height":290,"type":"text","text":"From this 3x3 grid image, extract and regenerate each individual panel as a separate standalone image.Keep exactly the same character, style, lighting, composition, and color grading for all panels.Do not include any grid borders or other panels.Output 9 separate high-resolution images in order: row 1 column 1, row 1 column 2, row 1 column 3, row 2 column 1, row 2 column 2, row 2 column 3, row 3 column 1, row 3 column 2, row 3 column 3.8K, ultra-detailed, sharp focus, cinematic quality."}
-	],
-	"edges":[]
-}
