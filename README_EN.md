@@ -1,4 +1,4 @@
-# Short-Drama AI Filmmaking Gems (v6.5)
+# Short-Drama AI Filmmaking Gems (v1.0)
 
 English | [简体中文](./README.md)
 
@@ -10,7 +10,7 @@ Fully optimized for mainstream AI generation tools including **Seedance 2.0, Nan
 
 ## 🎬 Core Agents
 
-This suite consists of the following three **v6.5 Flagship** agent instructions, each embedded with strict execution rules, structured workflows, and state trackers:
+This suite consists of the following three **v1.0 Flagship** agent instructions, each embedded with strict execution rules, structured workflows, and state trackers:
 
 ### 1. Screenplay Adaptation Master (`01_screenplay_adaptation_master.md`)
 *   **Role**: Professional Screenplay Adaptation Expert.
