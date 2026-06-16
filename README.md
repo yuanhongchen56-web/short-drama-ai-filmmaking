@@ -1,4 +1,4 @@
-# Short-Drama AI Filmmaking Gems (v1.0)
+# Short-Drama AI Filmmaking
 
 [English](./README_EN.md) | 简体中文
 
