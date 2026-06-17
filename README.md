@@ -70,7 +70,7 @@ graph TD
 
 ## 🚀 如何使用
 
-1.  **创建智能体 (codex / GPTs / Gem)**：
+1.  **创建智能体 (codex / Gem)**：
     *   将 `prompts/` 目录下的相应 Markdown 文件内容，原封不动地复制并填入智能体的“系统指令/System Instruction”中。
     *   推荐使用 **Gemini** \ **GPT**\**Claude Opus** \**Deepseek**等具备大上下文和强逻辑遵循能力的模型。
 2.  **执行管线流程**：
